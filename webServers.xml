@@ -7,6 +7,9 @@
       <webServer id="91753394-8cf0-465a-b538-323e382f362e" name="server" url="http://localhost">
         <fileTransfer port="0" mountedRoot="C:\Projects\ecs3\server" accessType="MOUNT" />
       </webServer>
+      <webServer id="83068e49-1b02-4aee-a944-0fff0b668789" name="inctbto-test" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
